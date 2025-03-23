@@ -1,2 +1,2 @@
 ### Netflix and bill - poster
-![poster](netflix_poster.png)
+![poster](Netflix_poster.png)
